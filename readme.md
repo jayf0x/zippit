@@ -1,5 +1,9 @@
 # Zippit
 
+> Depricated concept. Easy to replace with a tool like [majic](https://github.com/jayf0x/majic).
+
+---
+
 A drag-and-drop file encryption desktop app for macOS. Encrypts files and folders using the [age](https://age-encryption.org/) format — interoperable with standard `age`/`rage` CLI tools.
 
 ## Features
